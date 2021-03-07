@@ -1,12 +1,12 @@
 #!/usr/bin/python
-'''coded by ayoub sirai'''
+'''coded by Zeus-terminator '''
 
 import smtplib
 from os import system
 
 def main():
    print '================================================='
-   print '               coded by ayoub sirai              '
+   print '               coded by Zeus-terminator              '
    print '================================================='
    print '               ++++++++++++++++++++              '
    print '\n                                               '
